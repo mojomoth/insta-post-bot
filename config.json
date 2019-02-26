@@ -1,0 +1,15 @@
+{
+  "plus_tags": ["신사동", "가로수길"],
+  "minus_tags": ["메이드"],
+  "minus_words": ["홍보", "문의주세요"],
+  "like_action": true,
+  "follow_action": true,
+  "reply_action": true,
+  "following_messages": [],
+  "follower_messages": [],
+  "start_time": "14:00:00",
+  "end_time": "15:30:00",
+  "unfollow_action": true,
+  "unfollow_action_limit": 5000,
+  "tick": 1000
+}
